@@ -1,11 +1,11 @@
-# Hello Everyone! Welcome to my GitHub profile 👋
+# Hello Everyone! Welcome to my GitHub profile 
 ## I am a Data Enthusiast!
 - 🔭 I’m currently working as Data Analyst
 - 🌱 I’m currently learning Data Science Concepts
 - 👯 I’m looking to collaborate on LinkedIn
 - 🤔 I’m a curious learner, wanna join me?
 - 💬 Ask me about Crunching data to get Business Insights
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her 👋
 - ⚡ Fun fact: I am a foody but also a fitness enthusiast! ⚡
 ## 📫 Reach me at:
 [Handshake](https://tacomauw.joinhandshake.com/stu/users/32019953) |
